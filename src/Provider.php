@@ -3,10 +3,10 @@ declare(strict_types=1);
 
 namespace Rws\Mailer;
 
-use RWS\Mailer\Message\Message;
+use Rws\Mailer\Message\Message;
 
 /**
- * @package RWS\Mailer
+ * @package Rws\Mailer
  */
 interface Provider
 {

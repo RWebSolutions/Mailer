@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace RWS\Mailer\Tests\Unit;
+namespace Rws\Mailer\Tests\Unit;
 
 use PHPUnit\Framework\TestCase;
 use Rws\Mailer\Mailer;

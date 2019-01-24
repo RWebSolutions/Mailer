@@ -3,11 +3,11 @@ declare(strict_types=1);
 
 namespace Rws\Mailer\Sender;
 
-use RWS\Mailer\Message\Message;
-use RWS\Mailer\Provider;
+use Rws\Mailer\Message\Message;
+use Rws\Mailer\Provider;
 
 /**
- * @package RWS\Mailer\Sender
+ * @package Rws\Mailer\Sender
  */
 class SmtpProvider implements Provider
 {
