@@ -1,8 +1,21 @@
 {
-  "name": "rws/mailer",
-  "homepage": "https://github.com/RWebSolutions/Mailer",
+  "name": "rwebsolutions/mailer",
+  "homepage": "https://github.com/rwebsolutions/mailer",
   "description": "",
   "type": "library",
+  "keywords": [
+    "php",
+    "mailer",
+    "smtp"
+  ],
+  "license": "BSD-3-Clause",
+  "authors": [
+    {
+      "name": "Marcin Różagórski",
+      "email": "marcinrozagorski@gmail.com",
+      "role": "lead"
+    }
+  ],
   "require": {
     "php": "^7.1",
     "ext-openssl": "*"
