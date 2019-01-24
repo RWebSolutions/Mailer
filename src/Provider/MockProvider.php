@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace Rws\Mailer\Sender;
+namespace Rws\Mailer\Provider;
 
 use Rws\Mailer\Message\Message;
 use Rws\Mailer\Provider;

@@ -4,7 +4,7 @@ declare(strict_types=1);
 namespace Rws\Mailer\Message;
 
 /**
- * @package Rws\Mailer\Sender
+ * @package Rws\Mailer\Provider
  */
 class Content
 {

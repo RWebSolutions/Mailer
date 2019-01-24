@@ -1,10 +1,10 @@
 <?php
 declare(strict_types=1);
 
-namespace Rws\Mailer\Sender;
+namespace Rws\Mailer\Provider;
 
 /**
- * @package Rws\Mailer\Sender
+ * @package Rws\Mailer\Provider
  */
 class SmtpResponse
 {

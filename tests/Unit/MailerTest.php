@@ -5,7 +5,7 @@ namespace Rws\Mailer\Tests\Unit;
 
 use PHPUnit\Framework\TestCase;
 use Rws\Mailer\Mailer;
-use Rws\Mailer\Sender\MockProvider;
+use Rws\Mailer\Provider\MockProvider;
 
 class MailerTest extends TestCase
 {

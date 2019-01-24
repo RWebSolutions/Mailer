@@ -1,14 +1,14 @@
 <?php
 declare(strict_types=1);
 
-namespace Rws\Mailer\Sender;
+namespace Rws\Mailer\Provider;
 
 use http\Exception\RuntimeException;
 use Rws\Mailer\Message\Message;
 use Rws\Mailer\Provider;
 
 /**
- * @package Rws\Mailer\Sender
+ * @package Rws\Mailer\Provider
  */
 class PHPMailProvider implements Provider
 {
